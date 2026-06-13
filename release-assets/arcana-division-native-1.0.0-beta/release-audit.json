@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-13T07:27:30.877Z",
+  "repository": "knoxhack/ECHO-Arcana-Division-Native-Edition",
+  "releaseTag": "arcana-division-native-1.0.0-beta",
+  "status": "verified-prerelease-assets",
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Arcana-Division-Native-Edition/releases/tag/arcana-division-native-1.0.0-beta",
+  "assetDirectory": "release-assets/arcana-division-native-1.0.0-beta",
+  "uploadedReleaseAssets": [
+    "arcana-division-native-edition-1.0.0.zip",
+    "arcana-division-native-edition-beta-1.0.0.pack.json",
+    "checksums.txt",
+    "echo-release.json"
+  ],
+  "sidecarAssets": [
+    "release-audit.json"
+  ],
+  "assets": [
+    {
+      "name": "arcana-division-native-edition-1.0.0.zip",
+      "size": 96244549,
+      "sha256": "9bee8d3ac5dfbeff4f1afba6bf81048d74f7193b3f5bb2dce944e288f91ae834"
+    },
+    {
+      "name": "arcana-division-native-edition-beta-1.0.0.pack.json",
+      "size": 23470,
+      "sha256": "faa6e5a33e1c28734f8fe0aa5200a16624a0461d76191950148d25feb516db26"
+    },
+    {
+      "name": "checksums.txt",
+      "size": 309,
+      "sha256": "a1943736423543d85287485fbeaaf22f62f33d764a853f3b239c57be53833578"
+    },
+    {
+      "name": "echo-release.json",
+      "size": 1611,
+      "sha256": "99cc905432d8282bc3e1a986532aa36a61181906be8abec6ab5cf7ec00d112ed"
+    }
+  ],
+  "zip": {
+    "file": "arcana-division-native-edition-1.0.0.zip",
+    "entries": 26,
+    "sha256": "9bee8d3ac5dfbeff4f1afba6bf81048d74f7193b3f5bb2dce944e288f91ae834"
+  },
+  "checksumCoverage": {
+    "total": 3,
+    "releaseAssetFiles": 3,
+    "zipEntries": 0,
+    "missing": 0,
+    "mismatched": 0
+  },
+  "checksumEntries": [
+    {
+      "file": "arcana-division-native-edition-1.0.0.zip",
+      "expectedSha256": "9bee8d3ac5dfbeff4f1afba6bf81048d74f7193b3f5bb2dce944e288f91ae834",
+      "actualSha256": "9bee8d3ac5dfbeff4f1afba6bf81048d74f7193b3f5bb2dce944e288f91ae834",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "arcana-division-native-edition-1.0.0.zip",
+      "size": 96244549,
+      "ok": true
+    },
+    {
+      "file": "arcana-division-native-edition-beta-1.0.0.pack.json",
+      "expectedSha256": "faa6e5a33e1c28734f8fe0aa5200a16624a0461d76191950148d25feb516db26",
+      "actualSha256": "faa6e5a33e1c28734f8fe0aa5200a16624a0461d76191950148d25feb516db26",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "arcana-division-native-edition-beta-1.0.0.pack.json",
+      "size": 23470,
+      "ok": true
+    },
+    {
+      "file": "echo-release.json",
+      "expectedSha256": "99cc905432d8282bc3e1a986532aa36a61181906be8abec6ab5cf7ec00d112ed",
+      "actualSha256": "99cc905432d8282bc3e1a986532aa36a61181906be8abec6ab5cf7ec00d112ed",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "echo-release.json",
+      "size": 1611,
+      "ok": true
+    }
+  ],
+  "missingChecksumEntries": [],
+  "mismatchedChecksumEntries": []
+}
