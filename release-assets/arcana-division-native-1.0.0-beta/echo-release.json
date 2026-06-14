@@ -1,40 +1,44 @@
 {
-  "schemaVersion": "echo.pack.release.v1",
-  "id": "arcana-division-native-edition",
+  "formatVersion": 2,
+  "pack": "arcana-division-native-edition",
   "name": "Arcana Division Native Edition",
   "version": "1.0.0",
   "channel": "beta",
-  "target": "native",
-  "releaseTag": "arcana-division-native-1.0.0-beta",
-  "generatedAt": "2026-06-12T09:46:59.155Z",
-  "sourceRepo": "https://github.com/knoxhack/ECHO-Arcana-Division-Native-Edition",
-  "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
-  "moduleReleaseSource": "https://github.com/knoxhack/ECHO-Modules",
-  "moduleRequirementCount": 39,
-  "packRoot": {
-    "id": "echoarcanadivisionprotocol",
-    "version": "1.0.0"
-  },
-  "artifacts": {
-    "pack": {
-      "role": "pack",
-      "file": "arcana-division-native-edition-1.0.0.zip",
-      "sha256": "9bee8d3ac5dfbeff4f1afba6bf81048d74f7193b3f5bb2dce944e288f91ae834",
-      "size": 96244549,
-      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Native-Edition/releases/download/arcana-division-native-1.0.0-beta/arcana-division-native-edition-1.0.0.zip"
-    },
-    "manifest": {
-      "role": "manifest",
-      "file": "arcana-division-native-edition-beta-1.0.0.pack.json",
-      "sha256": "6a35f1be2ff13a822778d247e5b1f3014653157e367e1cd4d7146555a931e07f",
-      "size": 33259,
-      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Native-Edition/releases/download/arcana-division-native-1.0.0-beta/arcana-division-native-edition-beta-1.0.0.pack.json"
-    }
-  },
-  "validation": {
-    "state": "warning",
-    "reason": "Local beta artifacts generated; promote to approved after GitHub release asset URLs, sizes, and hashes are indexed."
-  },
+  "releasedAt": "2026-06-14T00:31:22.175Z",
   "manifestAsset": "arcana-division-native-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "6a35f1be2ff13a822778d247e5b1f3014653157e367e1cd4d7146555a931e07f"
+  "manifestSha256": "45260b6c827b89cdffab26cd8f94139b28c0e1ee7ced6341bfe404eb80bced74",
+  "manifestSize": 53233,
+  "artifactMode": "zip",
+  "artifactAsset": "arcana-division-native-edition-1.0.0.zip",
+  "artifactSha256": "83606d0e4f933260e2e7729718e9c01c624297799cedfe40786bf4e19447c0a5",
+  "artifactSize": 7631,
+  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
+  "packs": [
+    {
+      "pack": "arcana-division-native-edition",
+      "name": "Arcana Division Native Edition",
+      "version": "1.0.0",
+      "channel": "beta",
+      "manifestAsset": "arcana-division-native-edition-beta-1.0.0.pack.json",
+      "artifactAsset": "arcana-division-native-edition-1.0.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "arcana-division-native-edition-beta-1.0.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "45260b6c827b89cdffab26cd8f94139b28c0e1ee7ced6341bfe404eb80bced74",
+      "size": 53233
+    },
+    {
+      "name": "arcana-division-native-edition-1.0.0.zip",
+      "role": "pack-artifact",
+      "sha256": "83606d0e4f933260e2e7729718e9c01c624297799cedfe40786bf4e19447c0a5",
+      "size": 7631
+    }
+  ],
+  "notes": [
+    "Rebuilt arcana-division-native-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
+    "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
+  ]
 }
