@@ -10,8 +10,8 @@
   "minecraftVersion": "26.1.2",
   "artifactMode": "zip",
   "artifactName": "arcana-division-native-edition-1.0.0.zip",
-  "artifactSha256": "791bb16068867957a3911f5ad70feaabc196a05a701c4d3a1aedb76f2271c1fe",
-  "artifactSize": 116969433,
+  "artifactSha256": "cf8417817a0d9152427d0c72f9d773f9f53de126e1a10c04f5d19d9d7e12812a",
+  "artifactSize": 116965198,
   "moduleArtifactFamily": "echo-addon",
   "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
   "moduleRequirements": [

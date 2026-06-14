@@ -6,12 +6,12 @@
   "channel": "beta",
   "releasedAt": "2026-06-14T01:26:58.165Z",
   "manifestAsset": "arcana-division-native-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "b206bc362bb851b1a35953ce33d26a0020fc2385da369455b53e215f8da8c1dc",
+  "manifestSha256": "cef069f1880eaf5d89515298a7e65946e003f2744085c373c4def636a0bbed16",
   "manifestSize": 53381,
   "artifactMode": "zip",
   "artifactAsset": "arcana-division-native-edition-1.0.0.zip",
-  "artifactSha256": "29c2ca22660538af245db0e6fd10e2d49e1af0d2ac582a2520949d76a65a1cb9",
-  "artifactSize": 116998122,
+  "artifactSha256": "cf8417817a0d9152427d0c72f9d773f9f53de126e1a10c04f5d19d9d7e12812a",
+  "artifactSize": 116965198,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "arcana-division-native-edition-beta-1.0.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "b206bc362bb851b1a35953ce33d26a0020fc2385da369455b53e215f8da8c1dc",
+      "sha256": "cef069f1880eaf5d89515298a7e65946e003f2744085c373c4def636a0bbed16",
       "size": 53381
     },
     {
       "name": "arcana-division-native-edition-1.0.0.zip",
       "role": "pack-artifact",
-      "sha256": "29c2ca22660538af245db0e6fd10e2d49e1af0d2ac582a2520949d76a65a1cb9",
-      "size": 116998122
+      "sha256": "cf8417817a0d9152427d0c72f9d773f9f53de126e1a10c04f5d19d9d7e12812a",
+      "size": 116965198
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
