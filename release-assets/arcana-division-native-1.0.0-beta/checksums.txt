@@ -1,3 +1,4 @@
-358e1d3421960e0730a8557564d45b3173dc0d65a7655e30982e159902331c3a  echo-release.json
-dd6c672d7ebb5f31fd870527135eb8c26fc736a9aeaeaa02e0d05e72832eb2ee  arcana-division-native-edition-1.0.0.zip
-a299a7764d5278fc808e1370785d675605adf1d81ae3dbdf7cf1f5ae36e05fd0  arcana-division-native-edition-beta-1.0.0.pack.json
+61eb89e8e1e2a9d4bee56d83f97d54df0b6b3bf250224dd951dfcd5dfaa8e2a5  arcana-division-native-edition-beta-1.0.0.pack.json
+d8da104163565eafdd4bf9097a4c54e13b604ccfaeb0a1814513e2bfa1f71345  echo-release.json
+dca41f2a9ce3a91c466e28792da7b2b25347fab4f5476f8f698d6651e2f3de06  arcana-division-native-edition-1.0.0.zip
+fe712146e3f3195742f05d81957db539271f44c292f4df228f299d0a33e47c57  release-audit.json
