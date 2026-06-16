@@ -12,13 +12,13 @@
   "moduleCount": 39,
   "artifact": {
     "name": "arcana-division-native-edition-1.0.0.zip",
-    "sha256": "6f8e384b3c91587b0263b950e126b765dfd92d216a9accbd8199715a3e73f624",
-    "size": 117350382
+    "sha256": "42e409f4d42a2047171346e79d5a1b98511d84481bc04af290d17edfa84db78c",
+    "size": 117349229
   },
   "manifest": {
     "name": "arcana-division-native-edition-beta-1.0.0.pack.json",
-    "sha256": "2050c3730dfbe3e8f602f41db24ea5ddc1f7979a6857c25b46d974131fe5b7b6",
-    "size": 56663
+    "sha256": "18ee2d18e4377deaf75d9aeefe6f90f82b01411073eb8d44f6d26c6978ecdc65",
+    "size": 56451
   },
-  "generatedAt": "2026-06-16T01:20:24.233Z"
+  "generatedAt": "2026-06-16T02:17:59.061Z"
 }
