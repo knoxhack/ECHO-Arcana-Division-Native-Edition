@@ -4,14 +4,14 @@
   "name": "Arcana Division Native Edition",
   "version": "1.0.0",
   "channel": "beta",
-  "releasedAt": "2026-06-16T00:35:19.899Z",
+  "releasedAt": "2026-06-16T01:20:24.234Z",
   "manifestAsset": "arcana-division-native-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "61eb89e8e1e2a9d4bee56d83f97d54df0b6b3bf250224dd951dfcd5dfaa8e2a5",
-  "manifestSize": 55105,
+  "manifestSha256": "2050c3730dfbe3e8f602f41db24ea5ddc1f7979a6857c25b46d974131fe5b7b6",
+  "manifestSize": 56663,
   "artifactMode": "zip",
   "artifactAsset": "arcana-division-native-edition-1.0.0.zip",
-  "artifactSha256": "dca41f2a9ce3a91c466e28792da7b2b25347fab4f5476f8f698d6651e2f3de06",
-  "artifactSize": 117295901,
+  "artifactSha256": "6f8e384b3c91587b0263b950e126b765dfd92d216a9accbd8199715a3e73f624",
+  "artifactSize": 117350382,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "arcana-division-native-edition-beta-1.0.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "61eb89e8e1e2a9d4bee56d83f97d54df0b6b3bf250224dd951dfcd5dfaa8e2a5",
-      "size": 56685
+      "sha256": "2050c3730dfbe3e8f602f41db24ea5ddc1f7979a6857c25b46d974131fe5b7b6",
+      "size": 56663
     },
     {
       "name": "arcana-division-native-edition-1.0.0.zip",
       "role": "pack-artifact",
-      "sha256": "dca41f2a9ce3a91c466e28792da7b2b25347fab4f5476f8f698d6651e2f3de06",
-      "size": 117295901
+      "sha256": "6f8e384b3c91587b0263b950e126b765dfd92d216a9accbd8199715a3e73f624",
+      "size": 117350382
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
       "role": "pack-file",
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
-      "sha256": "6419877b2fdf5c9396408c71fb2a013301884416c8d3131209b8e5a03dabde7a",
-      "size": 827788
+      "sha256": "909cc422566f138e65ad927e33775cff20f3caef963181ebd7c3716f711cfbf9",
+      "size": 841135
     },
     {
       "name": "echoaetherworks-1.0.0.echo-addon",
