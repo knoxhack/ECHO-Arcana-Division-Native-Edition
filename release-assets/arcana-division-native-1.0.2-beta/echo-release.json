@@ -1,0 +1,318 @@
+{
+  "formatVersion": 2,
+  "pack": "arcana-division-native-edition",
+  "name": "Arcana Division Native Edition",
+  "version": "1.0.2",
+  "channel": "beta",
+  "releasedAt": "2026-06-20T04:40:55.347Z",
+  "manifestAsset": "arcana-division-native-edition-beta-1.0.2.pack.json",
+  "manifestSha256": "5f833348ce2582bdaf6c12745ff57d6469dc2b4de9e57da9e37307756ccbbae2",
+  "manifestSize": 55357,
+  "artifactMode": "zip",
+  "artifactAsset": "arcana-division-native-edition-1.0.2.zip",
+  "artifactSha256": "5aa6f105253a025f3be76ac6d10b01afd9b2893e3bf35a8d263d183761c70fa0",
+  "artifactSize": 117429087,
+  "moduleRelease": "modules-beta-full-20260620",
+  "packs": [
+    {
+      "pack": "arcana-division-native-edition",
+      "name": "Arcana Division Native Edition",
+      "version": "1.0.2",
+      "channel": "beta",
+      "manifestAsset": "arcana-division-native-edition-beta-1.0.2.pack.json",
+      "artifactAsset": "arcana-division-native-edition-1.0.2.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "arcana-division-native-edition-beta-1.0.2.pack.json",
+      "role": "pack-manifest",
+      "sha256": "5f833348ce2582bdaf6c12745ff57d6469dc2b4de9e57da9e37307756ccbbae2",
+      "size": 55357
+    },
+    {
+      "name": "arcana-division-native-edition-1.0.2.zip",
+      "role": "pack-artifact",
+      "sha256": "5aa6f105253a025f3be76ac6d10b01afd9b2893e3bf35a8d263d183761c70fa0",
+      "size": 117429087
+    },
+    {
+      "name": "echoadaptercore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoadaptercore-1.0.0.echo-addon",
+      "sha256": "23d664f765328180dfd6a3e8d902088076bd7db0b701be1eef339a3e24afc15c",
+      "size": 847600
+    },
+    {
+      "name": "echoaetherworks-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoaetherworks-1.0.0.echo-addon",
+      "sha256": "b43c28acdfed568ad71598e625f0307d1f2a841038fa573f982c21fe419be570",
+      "size": 92434
+    },
+    {
+      "name": "echoarcanacore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoarcanacore-1.0.0.echo-addon",
+      "sha256": "84edccc295964e586c445c134316bae435b8d939de21d50b30977b1fa33394ac",
+      "size": 127267
+    },
+    {
+      "name": "echoarcanadivisionprotocol-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoarcanadivisionprotocol-1.0.0.echo-addon",
+      "sha256": "774e28cf52ac5c95c11135f9619d4f57b78f273b6bacf14fd32822795372c17b",
+      "size": 17619
+    },
+    {
+      "name": "echoarcaneindex-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoarcaneindex-1.0.0.echo-addon",
+      "sha256": "f7ce7a75123084be1eab48904cc3ab84d0902df40cb2c08fcbf0eb667c9e62f1",
+      "size": 38977
+    },
+    {
+      "name": "echoblockworks-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoblockworks-1.0.0.echo-addon",
+      "sha256": "f596a2182cbb28df138e140b70ed476950752dbaff8f8478ab6a06d7d8f49e07",
+      "size": 837485
+    },
+    {
+      "name": "echocodexcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocodexcore-1.0.0.echo-addon",
+      "sha256": "1106e4523ee38fc454060cc12ec75bb29f7ea1f6cdd568a895e03e9d5f4c8cc3",
+      "size": 29972
+    },
+    {
+      "name": "echocommonloot-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocommonloot-0.1.0.echo-addon",
+      "sha256": "f4828426a74511dddfb260e7082ca7f7eda8300d9c6187df5b9bef8a3b3fc9a5",
+      "size": 15400
+    },
+    {
+      "name": "echocontentcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocontentcore-1.0.0.echo-addon",
+      "sha256": "8fc78d70c659cec20864d4cf447674448e5932ad3b56414158759a4f6caae90b",
+      "size": 39443
+    },
+    {
+      "name": "echocore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocore-1.0.0.echo-addon",
+      "sha256": "68b6107082a2677fc73f645bd4b33c7117dfb90f280879b8240d633193b5b879",
+      "size": 341859
+    },
+    {
+      "name": "echocreatureroles-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocreatureroles-0.1.0.echo-addon",
+      "sha256": "91914565c00c8da4e98fdd2dfdfef4f8847ace471bf7a5f1c52cb1619a6dcfbd",
+      "size": 14995
+    },
+    {
+      "name": "echocursecore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocursecore-1.0.0.echo-addon",
+      "sha256": "601ad189905e2fd3b5f40877b41bca1c6b401b8cbfec8a86960dfce2b3c4c6b1",
+      "size": 70497
+    },
+    {
+      "name": "echofamiliarcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echofamiliarcore-1.0.0.echo-addon",
+      "sha256": "e72817864e1daa3524b7c4cd7730177fc1c1698d4ac39adfc0d5019aefc86b01",
+      "size": 55233
+    },
+    {
+      "name": "echofoundationcore-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echofoundationcore-0.1.0.echo-addon",
+      "sha256": "bcdde80f9bac1aab6f3b5ee89c4a92abcd63fb55ecfc3e7e5abd0a187791b6d2",
+      "size": 18479
+    },
+    {
+      "name": "echogrimoire-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echogrimoire-1.0.0.echo-addon",
+      "sha256": "ddfab025f6e4117578e8cae6c8af315377a940a0b3413a8fff4f4189894b2936",
+      "size": 36989
+    },
+    {
+      "name": "echoholomap-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoholomap-1.0.0.echo-addon",
+      "sha256": "caaeafe73abbd94c5a0f33c8c4c084cc3c8e08fe1889cfd74e9436b598163e10",
+      "size": 1478585
+    },
+    {
+      "name": "echohudcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echohudcore-1.0.0.echo-addon",
+      "sha256": "6d17a27390490e873446753afdda27f1ed364a02c367cc5da24683297fe3baa1",
+      "size": 54179
+    },
+    {
+      "name": "echoindex-1.0.1.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoindex-1.0.1.echo-addon",
+      "sha256": "98f960bd5ffb479d2013e446d9bb4841eda744cccc83185a2d37931909427fb0",
+      "size": 588637
+    },
+    {
+      "name": "echolens-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echolens-1.0.0.echo-addon",
+      "sha256": "311b1dd288781baf3ad42fecb98a37e30991fe8f96e9b8fda0c8337afb355cdc",
+      "size": 215270
+    },
+    {
+      "name": "echomaterialcore-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echomaterialcore-0.1.0.echo-addon",
+      "sha256": "104d03d3ffab358c46320016a0e390673df5436fa2ac521a876606b588c4f2a8",
+      "size": 29714
+    },
+    {
+      "name": "echomissioncore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echomissioncore-1.0.0.echo-addon",
+      "sha256": "187b2942b1ab111923ef113431c746b3e9ed23ec8036e5260711248fdc9842cc",
+      "size": 124450
+    },
+    {
+      "name": "echonetcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echonetcore-1.0.0.echo-addon",
+      "sha256": "6bb7b749d5dfd5ae7836cf51262f2b7a19b0c6dadbc13d65056c9444d6f4b454",
+      "size": 76247
+    },
+    {
+      "name": "echoplatformcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoplatformcore-1.0.0.echo-addon",
+      "sha256": "f68017cb526d6c2308584fa13890edb92fb37cd11272630a2313eca1676a6ce1",
+      "size": 50645
+    },
+    {
+      "name": "echorelictech-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echorelictech-1.0.0.echo-addon",
+      "sha256": "cc6c7c7ef7186474e6fe0d1e2e41642d59f465fc1a3457b802ca5a395ead9dd4",
+      "size": 7687151
+    },
+    {
+      "name": "echoriftworlds-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoriftworlds-1.0.0.echo-addon",
+      "sha256": "b2ab72a11cf32cbed6d8bd8691ae6ae8b49f6ee4db22fdde559221337c203566",
+      "size": 39137
+    },
+    {
+      "name": "echoritualcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoritualcore-1.0.0.echo-addon",
+      "sha256": "b5743e6190d2055852f22084926c5f509a3bcaa7c5464d8a2731426276a1e976",
+      "size": 104041
+    },
+    {
+      "name": "echoruntimeguard-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoruntimeguard-1.0.0.echo-addon",
+      "sha256": "7db1c93687c59e6b8785b1d250e8b1b35279e564931c9ff1a2dd0e0ac1bb10a3",
+      "size": 128122
+    },
+    {
+      "name": "echoschemacore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoschemacore-1.0.0.echo-addon",
+      "sha256": "1c461fcd922fba9b0b11d7b505ddb33782d0ec1f54d2aa755ba05bcd79c009cb",
+      "size": 36674
+    },
+    {
+      "name": "echoscreencore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoscreencore-1.0.0.echo-addon",
+      "sha256": "820621fe58ba8fcecc4128a9356588ee92fe233a11c67c0d896d7f9bbdad4ecf",
+      "size": 374330
+    },
+    {
+      "name": "echosoundcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echosoundcore-1.0.0.echo-addon",
+      "sha256": "37aeb84ff29529aefd230b5461f7c3aeda27f087435abe76ec713db38d0f8924",
+      "size": 11087314
+    },
+    {
+      "name": "echospellcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echospellcore-1.0.0.echo-addon",
+      "sha256": "6a1363ca1412b8fafb3d80590b086b64609953877d57af3f9f9167317709a537",
+      "size": 161498
+    },
+    {
+      "name": "echostationcore-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echostationcore-0.1.0.echo-addon",
+      "sha256": "06d832b949e0ef861ea854ec2568ce73b142f710d53871307bac53690aa1e536",
+      "size": 19133
+    },
+    {
+      "name": "echoterminal-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoterminal-1.0.0.echo-addon",
+      "sha256": "cd898e6485337c7b9516ccfe552c65cfe51eef53e5a0ab15c60933d62f3e4062",
+      "size": 22479731
+    },
+    {
+      "name": "echothemecore-1.3.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echothemecore-1.3.0.echo-addon",
+      "sha256": "343effcaee56c8dbf68bfb63660226176d7c2b30768795fab6198a0243401104",
+      "size": 69535269
+    },
+    {
+      "name": "echotoolcore-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echotoolcore-0.1.0.echo-addon",
+      "sha256": "e45abaf241aff5cc00b22af6b1d9c2cd4b1071213022a3e0f2af7375c810fd58",
+      "size": 18689
+    },
+    {
+      "name": "echotutorialcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echotutorialcore-1.0.0.echo-addon",
+      "sha256": "2310bc36cc141fbef8167f15c3272f731751f90cdb7031bf2d9682cda7acff05",
+      "size": 206575
+    },
+    {
+      "name": "echovalidationcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echovalidationcore-1.0.0.echo-addon",
+      "sha256": "d04f80b76769d34d7af8f0003348b15fb045351607cd2f22881135830b27add5",
+      "size": 47445
+    },
+    {
+      "name": "echoworldcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoworldcore-1.0.0.echo-addon",
+      "sha256": "c29f67ee861d9f5f18609b8365ea51a94ba6f1cba85fb7c6379803d359cea2b8",
+      "size": 174428
+    },
+    {
+      "name": "echoworldstarter-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoworldstarter-0.1.0.echo-addon",
+      "sha256": "80c371ebd22b025f60f0a793b1b7844fa4987b7d834a660565570bf27c3d2447",
+      "size": 19830
+    }
+  ],
+  "notes": [
+    "Arcana Division Native Edition refreshed against the current Release Index module catalog.",
+    "Pack module files, sidecar metadata, and archive checksums are pinned to current GitHub module artifacts."
+  ],
+  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20"
+}

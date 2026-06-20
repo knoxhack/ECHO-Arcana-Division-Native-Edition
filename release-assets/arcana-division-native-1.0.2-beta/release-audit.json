@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "arcana-division-native-edition",
+  "name": "Arcana Division Native Edition",
+  "version": "1.0.2",
+  "channel": "beta",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "releaseTag": "arcana-division-native-1.0.2-beta",
+  "sourceRepo": "knoxhack/ECHO-Arcana-Division-Native-Edition",
+  "moduleCount": 39,
+  "artifact": {
+    "name": "arcana-division-native-edition-1.0.2.zip",
+    "sha256": "5aa6f105253a025f3be76ac6d10b01afd9b2893e3bf35a8d263d183761c70fa0",
+    "size": 117429087
+  },
+  "manifest": {
+    "name": "arcana-division-native-edition-beta-1.0.2.pack.json",
+    "sha256": "5f833348ce2582bdaf6c12745ff57d6469dc2b4de9e57da9e37307756ccbbae2",
+    "size": 55357
+  },
+  "generatedAt": "2026-06-20T04:40:55.346Z"
+}
